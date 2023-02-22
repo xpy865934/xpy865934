@@ -1,4 +1,5 @@
-### Hi 我是 平，一名菜鸟程序员😄 
+### Hi 我是 [平](https://monkey.blog.xpyvip.top/)，一名菜鸟程序员😄 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=xpy865934&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 <!--
 **xpy865934/xpy865934** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
