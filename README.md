@@ -1,17 +1,16 @@
 ### Hi 我是 [平](https://monkey.blog.xpyvip.top/)，一名菜鸟程序员😄 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=xpy865934&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-<!--
-**xpy865934/xpy865934** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 前端技术
+<code><img height="20" src="./img/skill/Html.png" title="Html" /></code>
+<code><img height="20" src="./img/skill/Css.png" title="Css" /></code>
+<code><img height="20" src="./img/skill/Less.png" title="Less" /></code>
+<code><img height="20" src="./img/skill/Sass.png" title="Sass" /></code>
+<code><img height="20" src="./img/skill/Tailwindcss.png" title="Tailwindcss" /></code>
+<code><img height="20" src="./img/skill/JavaScript.png" title="JavaScript" /></code>
+<code><img height="20" src="./img/skill/Typescript.png" title="Typescript" /></code>
+<code><img height="20" src="./img/skill/Vue.png" title="Vue" /></code>
+<code><img height="20" src="./img/skill/React.png" title="React" /></code>
+<code><img height="20" src="./img/skill/Uniapp.png" title="Uniapp" /></code>
+<code><img height="20" src="./img/skill/Wxapp.png" title="微信小程序" /></code>
+<code><img height="20" src="./img/skill/Vite.png" title="Vite" /></code>
