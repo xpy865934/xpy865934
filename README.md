@@ -12,4 +12,9 @@
 <code><img height="20" src="./img/uniapp.png" title="uniapp" /></code>
 <code><img height="20" src="./img/wxapp.png" title="微信小程序" /></code>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xpy865934&layout=compact"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xpy865934"/>
+
+### 后端技术
+<code><img height="20" src="./img/extjs.png" title="extjs" /></code>
+<code><img height="20" src="./img/uniapp.png" title="uniapp" /></code>
+<code><img height="20" src="./img/wxapp.png" title="微信小程序" /></code>
