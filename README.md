@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 我是 平，一名菜鸟程序员😄 
 
 <!--
 **xpy865934/xpy865934** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
