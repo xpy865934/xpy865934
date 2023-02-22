@@ -19,6 +19,17 @@
 <img align="right" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xpy865934&layout=compact"/>
 
 ### 后端技术
-<code><img height="20" src="./img/extjs.png" title="extjs" /></code>
-<code><img height="20" src="./img/uniapp.png" title="uniapp" /></code>
-<code><img height="20" src="./img/wxapp.png" title="微信小程序" /></code>
+<code><img height="20" src="./img/springmvc.png" title="spring mvc" /></code>
+<code><img height="20" src="./img/springboot.png" title="springboot" /></code>
+<code><img height="20" src="./img/springcloud.png" title="springcloud" /></code>
+<code><img height="20" src="./img/springsecurity.png" title="Spring Security" /></code>
+<code><img height="20" src="./img/mybatis.png" title="mybatis" /></code>
+<code><img height="20" src="./img/mybatisplus.png" title="mybatisplus" /></code>
+<code><img height="20" src="./img/mysql.png" title="mysql" /></code>
+<code><img height="20" src="./img/druid.png" title="druid" /></code>
+<code><img height="20" src="./img/dynamicdatasource.png" title="Dynamic Datasource" /></code>
+<code><img height="20" src="./img/redis.png" title="redis" /></code>
+<code><img height="20" src="./img/activity.png" title="activity" /></code>
+<code><img height="20" src="./img/flowable.png" title="flowable" /></code>
+<code><img height="20" src="./img/quartz.png" title="Quartz" /></code>
+
