@@ -1,9 +1,9 @@
 ### Hi 我是 [平](https://monkey.blog.xpyvip.top/)，一名菜鸟程序员😄 
 <img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=xpy865934&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-- 1
-- 2
-- 3
+- :speech_balloon:微信公众号[平哥技术站]，定期更新技术分享文章。
+- :postbox:我的邮箱: 865934097@qq.com
+- :globe_with_meridians:我的网站：https://xpy865934.github.io/
 
 ### 前端技术
 <code><img height="20" src="./img/html.png" title="html" /></code>
